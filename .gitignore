@@ -1,5 +1,5 @@
-data\
-homework\.ipynb_checkpoints
+data/
+homework/.ipynb_checkpoints/
 data/Part01/installments_payments.csv
 data/Part01/application_test.csv
 data/Part01/application_train.csv
